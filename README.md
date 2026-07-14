@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Name: Sean Ingles<br>Age: 19 years old<br>PROGRAM: BSCPE<br>TRACK ELECTIVE: Human-Computer Interaction</p>
+<p align="left">Name: Sean Ingles<br>Age: 20 years old<br>PROGRAM: BSCPE<br>TRACK ELECTIVE: Human-Computer Interaction</p>
 
 ###
 
